@@ -1,0 +1,23 @@
+/* RESET DE INTERFACE */
+*{
+    background-color: green;
+    font-family: "idroid";
+    margin: 0;
+    padding: 0;
+}
+
+/* IMPORT DE FONTE LOCAL */
+@font-face {
+    font-family: "idroid";
+    src: url(./fontes/idroid.otf);
+}
+
+/* HEADER DA PAGINA */
+
+
+
+/* --------------------- */
+
+/* MAIN DA PAGINA */
+
+/* --------------------- */
